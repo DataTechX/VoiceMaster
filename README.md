@@ -1,4 +1,4 @@
-How to setup the bot:
+##How to setup the bot:
 1.Download python using the following link:
 
 https://www.python.org/downloads/
