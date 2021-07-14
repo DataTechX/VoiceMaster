@@ -5,7 +5,7 @@ import sys
 
 bot = commands.Bot(command_prefix="+") 
 
-token = 'ODU3MjM5Mjc3NzQ2NjUxMTg2.YNMsSg.OBpSt03paSS-qE0ghIBwdcLpCiE'
+token = 'token here'
 
 initial_extensions = ['cogs.voice']
 
